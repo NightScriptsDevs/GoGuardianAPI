@@ -1,22 +1,8 @@
 # Status
 Working
-# Updates
-~ New Pipe System
-~ Fully Intergated Code
-~ Completely New API System
-~ GoGuardian Screen Blocker [MAJOR UPDATE]
-~ GoGuardian Pipe Blocker
-~ TeacherDetecter
-~ Ban Users System
-~ New UI
-~ New Admin Control Panel UI
-~ New App Launcher
-~ New Updating System
-~ New IP-Blocker
-~ New Server
-~ New IKPD Local
-~ Account-System
 # Version
-1.2.9
+1.3.0
+# Updates
+~ New Pipe System | ~ New UD Ban Account System | ~ New Account Based Off Chromebook | ~ New Carroting System | ~ New Designed AI | ~ New Intergated A5-A1-CD3-PQA System | ~ New Teacher View Disabler | ~ New Decline Teacher |  ~ New Worldwide Updating | ~ New Worldwide Compater | ~ Improved and Re-Done Code | ~ New Teacher Pipe
 # Creator
 NightScripts, Project NightScripts ECO, Project Paradex.
