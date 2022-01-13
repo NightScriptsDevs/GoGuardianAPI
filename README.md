@@ -1,5 +1,7 @@
 # Status
-Working
+Not Working
+# Note
+Sorry we are Exploing the Issues and Trying to Fully Resolve them, Thanks for your Patience
 # Version
 1.3.0
 # Updates
